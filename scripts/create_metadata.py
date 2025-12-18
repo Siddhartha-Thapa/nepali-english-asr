@@ -1,4 +1,3 @@
-# Create: scripts/create_metadata.py
 import os
 import pandas as pd
 import librosa
@@ -11,9 +10,9 @@ def create_metadata_csv():
     """
     print("Creating metadata.csv...")
     
-    raw_audio_dir = Path("data/raw_audio")
-    romanized_dir = Path("data/transcripts/romanized")
-    bilingual_dir = Path("data/transcripts/bilingual")
+    raw_audio_dir = Path("../data/raw_audio")
+    romanized_dir = Path("../data/transcripts/romanized")
+    bilingual_dir = Path("../data/transcripts/bilingual")
     
     metadata = []
     
@@ -63,7 +62,7 @@ def create_metadata_csv():
     df = pd.DataFrame(metadata)
     
     # Save to CSV
-    df.to_csv('data/metadata.csv', index=False)
+    df.to_csv('../data/metadata.csv', index=False)
     
     # Print statistics
     print("\n" + "=" * 60)

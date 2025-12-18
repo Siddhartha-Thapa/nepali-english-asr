@@ -60,9 +60,9 @@ def preprocess_all_audio():
     print("=" * 60)
     
     # Load metadata
-    df = pd.read_csv('data/metadata.csv')
+    df = pd.read_csv('../data/metadata.csv')
     
-    output_dir = Path("data/processed_audio")
+    output_dir = Path("../data/processed_audio")
     output_dir.mkdir(exist_ok=True)
     
     results = []
@@ -102,13 +102,13 @@ def preprocess_all_audio():
     
     # Save results
     results_df = pd.DataFrame(results)
-    results_df.to_csv('data/preprocessing_results.csv', index=False)
+    results_df.to_csv('../data/preprocessing_results.csv', index=False)
     
     # Update metadata with processed paths
     df['processed_audio_path'] = df['audio_id'].apply(
         lambda x: str(output_dir / f"{x}.wav")
     )
-    df.to_csv('data/metadata.csv', index=False)
+    df.to_csv('../data/metadata.csv', index=False)
     
     # Summary
     print("\n" + "=" * 60)
