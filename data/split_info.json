@@ -1,0 +1,10 @@
+{
+  "total_samples": 3000,
+  "train_samples": 2400,
+  "validation_samples": 300,
+  "test_samples": 300,
+  "train_duration": 6386.23,
+  "validation_duration": 775.7,
+  "test_duration": 794.86,
+  "random_state": 42
+}

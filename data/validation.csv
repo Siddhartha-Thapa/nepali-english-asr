@@ -1,0 +1,301 @@
+audio_id,original_audio_id,audio_path,romanized_transcript,bilingual_transcript,duration,augmentation_type
+audio_62_pitch_lower,audio_62,..\data\augmented_audio\audio_62_pitch_lower.wav,Yo project deploy garnai parxa.,यो project deploy गर्नै पर्छ।,1.79,pitch_lower
+audio_417_speed_slow,audio_417,..\data\augmented_audio\audio_417_speed_slow.wav,Please shutdown your PC properly.,Please shutdown your PC properly.,2.42,speed_slow
+audio_291_pitch_lower,audio_291,..\data\augmented_audio\audio_291_pitch_lower.wav,Tyo question answer garna time lagxa.,त्यो question answer गर्न time लाग्छ।,3.52,pitch_lower
+audio_376_speed_fast,audio_376,..\data\augmented_audio\audio_376_speed_fast.wav,Mero internet connection fine xa ajhai.,मेरो internet connection fine छ अझै.,2.33,speed_fast
+audio_243_pitch_lower,audio_243,..\data\augmented_audio\audio_243_pitch_lower.wav,Mero practical preparation ali kamjor xa.,मेरो practical preparation अलि कमजोर छ।,3.65,pitch_lower
+audio_467_pitch_lower,audio_467,..\data\augmented_audio\audio_467_pitch_lower.wav,Please clean your downloads folder.,Please clean your downloads folder.,2.37,pitch_lower
+audio_337_pitch_higher,audio_337,..\data\augmented_audio\audio_337_pitch_higher.wav,Please clear your doubts today.,Please clear your doubts today.,2.5,pitch_higher
+audio_163_pitch_lower,audio_163,..\data\augmented_audio\audio_163_pitch_lower.wav,Mero presentation bholi cha?,मेरो presentation भोलि छ?,2.66,pitch_lower
+audio_396_original,audio_396,..\data\augmented_audio\audio_396_original.wav,Let's start practical from today.,Let's start practical from today.,2.43,original
+audio_85_speed_slow,audio_85,..\data\augmented_audio\audio_85_speed_slow.wav,Mero pen khoi bhaneko xa.,मेरो pen खोइ भनेको छ।,1.53,speed_slow
+audio_24_pitch_lower,audio_24,..\data\augmented_audio\audio_24_pitch_lower.wav,Tyo file google drive ma upload gardinu.,त्यो file google drive मा upload गरिदिनु।,2.08,pitch_lower
+audio_284_pitch_higher,audio_284,..\data\augmented_audio\audio_284_pitch_higher.wav,Tyo code logic alik tricky xa.,त्यो code logic अलिक tricky छ।,3.36,pitch_higher
+audio_59_speed_fast,audio_59,..\data\augmented_audio\audio_59_speed_fast.wav,Please download the software before class.,Please download the software before class.,1.75,speed_fast
+audio_62_speed_fast,audio_62,..\data\augmented_audio\audio_62_speed_fast.wav,Yo project deploy garnai parxa.,यो project deploy गर्नै पर्छ।,1.63,speed_fast
+audio_242_speed_fast,audio_242,..\data\augmented_audio\audio_242_speed_fast.wav,Please submit the document before evening.,Please submit the document before evening.,3.23,speed_fast
+audio_98_speed_slow,audio_98,..\data\augmented_audio\audio_98_speed_slow.wav,Please update the document today.,Please update the document today.,1.6,speed_slow
+audio_228_pitch_lower,audio_228,..\data\augmented_audio\audio_228_pitch_lower.wav,Tyo teacher le example dherai ramro diye.,त्यो teacher ले example धेरै राम्रो दिए।,3.68,pitch_lower
+audio_127_pitch_lower,audio_127,..\data\augmented_audio\audio_127_pitch_lower.wav,Tyo lecture record garna bhayo sir le.,त्यो lecture record गर्न भयो sir ले।,2.66,pitch_lower
+audio_278_speed_slow,audio_278,..\data\augmented_audio\audio_278_speed_slow.wav,Tyo video upload gardai xu ma.,त्यो video upload गर्दै छु म।,3.06,speed_slow
+audio_190_speed_slow,audio_190,..\data\augmented_audio\audio_190_speed_slow.wav,Let's fix the bug today.,Let's fix the bug today.,2.84,speed_slow
+audio_300_speed_fast,audio_300,..\data\augmented_audio\audio_300_speed_fast.wav,Maile chai kal group meeting join gare.,मैले चाहिँ हिजो group meeting join गरे।,3.87,speed_fast
+audio_193_speed_fast,audio_193,..\data\augmented_audio\audio_193_speed_fast.wav,Tyo meeting cancel vayo re.,त्यो meeting cancel भयो रे।,2.62,speed_fast
+audio_313_noisy,audio_313,..\data\augmented_audio\audio_313_noisy.wav,Mero laptop ma storage kam xa.,मेरो laptop मा storage कम छ।,2.98,noisy
+audio_136_pitch_higher,audio_136,..\data\augmented_audio\audio_136_pitch_higher.wav,Tyo file ma error xa re.,त्यो file मा error छ रे।,2.62,pitch_higher
+audio_323_noisy,audio_323,..\data\augmented_audio\audio_323_noisy.wav,Please share the meeting recording.,Please share the meeting recording.,3.42,noisy
+audio_298_original,audio_298,..\data\augmented_audio\audio_298_original.wav,Please create the presentation slides.,Please create the presentation slides.,3.39,original
+audio_80_speed_slow,audio_80,..\data\augmented_audio\audio_80_speed_slow.wav,Please share your screen.,Please share your screen.,1.24,speed_slow
+audio_9_noisy,audio_9,..\data\augmented_audio\audio_9_noisy.wav,Tyo presentation ma photo clarity thikai xa ni.,त्यो presentation मा photo clarity ठीकै छ नि।,2.24,noisy
+audio_450_pitch_higher,audio_450,..\data\augmented_audio\audio_450_pitch_higher.wav,Maile chai tyo program run gare.,मैले चाहिँ त्यो program run गरे.,2.06,pitch_higher
+audio_386_noisy,audio_386,..\data\augmented_audio\audio_386_noisy.wav,Tyo topic test ma aauxa re.,त्यो topic test मा आउँछ रे.,1.98,noisy
+audio_85_original,audio_85,..\data\augmented_audio\audio_85_original.wav,Mero pen khoi bhaneko xa.,मेरो pen खोइ भनेको छ।,1.38,original
+audio_201_pitch_higher,audio_201,..\data\augmented_audio\audio_201_pitch_higher.wav,Mero presentation file ready cha.,मेरो presentation file ready छ।,3.52,pitch_higher
+audio_78_speed_slow,audio_78,..\data\augmented_audio\audio_78_speed_slow.wav,Let's go for a walk in evening.,Let's go for a walk in evening.,1.92,speed_slow
+audio_290_pitch_lower,audio_290,..\data\augmented_audio\audio_290_pitch_lower.wav,Maile chai tyo message read gareko xu.,मैले चाहिँ त्यो message read गरेको छु।,3.68,pitch_lower
+audio_140_pitch_higher,audio_140,..\data\augmented_audio\audio_140_pitch_higher.wav,Please save the document frequently.,Please save the document frequently।,2.72,pitch_higher
+audio_84_original,audio_84,..\data\augmented_audio\audio_84_original.wav,Let's finalize the project report today.,Let's finalize the project report today.,1.98,original
+audio_12_original,audio_12,..\data\augmented_audio\audio_12_original.wav,Assignment ko deadline extend hunxa ki nai?,Assignment को deadline extend हुन्छ कि नाई ?,2.14,original
+audio_13_pitch_higher,audio_13,..\data\augmented_audio\audio_13_pitch_higher.wav,Kal college ma class cancelled xa re.,भोलि college मा class cancelled छ रे।,1.92,pitch_higher
+audio_383_pitch_higher,audio_383,..\data\augmented_audio\audio_383_pitch_higher.wav,Please attend the seminar tomorrow.,Please attend the seminar tomorrow.,2.18,pitch_higher
+audio_60_original,audio_60,..\data\augmented_audio\audio_60_original.wav,Maile tyo meeting join garna birse.,मैले त्यो meeting join गर्न बिर्से।,1.86,original
+audio_495_noisy,audio_495,..\data\augmented_audio\audio_495_noisy.wav,Maile chai tyo form fill gare already.,मैले चाहिँ त्यो form fill गरे already.,2.72,noisy
+audio_139_pitch_lower,audio_139,..\data\augmented_audio\audio_139_pitch_lower.wav,Maile chai video edit gardai xu.,मैले चाहिँ video edit गर्दै छु।,2.94,pitch_lower
+audio_316_noisy,audio_316,..\data\augmented_audio\audio_316_noisy.wav,Tyo teacher ko teaching method different xa.,त्यो teacher को teaching method different छ।,3.52,noisy
+audio_310_noisy,audio_310,..\data\augmented_audio\audio_310_noisy.wav,Maile chai tyo topic revise gare.,मैले चाहिँ त्यो topic revise गरे।,3.39,noisy
+audio_328_speed_slow,audio_328,..\data\augmented_audio\audio_328_speed_slow.wav,Tyo question ko solution send gardinu.,त्यो question को solution send गर्दिनु।,3.66,speed_slow
+audio_202_speed_slow,audio_202,..\data\augmented_audio\audio_202_speed_slow.wav,Please join the meeting soon.,Please join the meeting soon.,2.7,speed_slow
+audio_46_pitch_lower,audio_46,..\data\augmented_audio\audio_46_pitch_lower.wav,Tyo website ko UI design attractive cha.,त्यो website को UI design attractive छ।,2.21,pitch_lower
+audio_55_speed_fast,audio_55,..\data\augmented_audio\audio_55_speed_fast.wav,Maile tyo assignment submit gareko xu already.,मैले त्यो assignment submit गरेको छु already.,2.15,speed_fast
+audio_378_pitch_higher,audio_378,..\data\augmented_audio\audio_378_pitch_higher.wav,Tyo video edit gardai xu maile.,त्यो video edit गर्दै छु मैले.,2.02,pitch_higher
+audio_24_pitch_higher,audio_24,..\data\augmented_audio\audio_24_pitch_higher.wav,Tyo file google drive ma upload gardinu.,त्यो file google drive मा upload गरिदिनु।,2.08,pitch_higher
+audio_11_pitch_higher,audio_11,..\data\augmented_audio\audio_11_pitch_higher.wav,Tyo movie ko trailer dherai ramro xa.,त्यो movie को trailer धेरै राम्रो छ।,1.76,pitch_higher
+audio_79_speed_slow,audio_79,..\data\augmented_audio\audio_79_speed_slow.wav,Maile chai assignment hard copy submit gare.,मैलेचै assignment hard copy submit गरे।,2.35,speed_slow
+audio_297_noisy,audio_297,..\data\augmented_audio\audio_297_noisy.wav,Mero laptop ma VS Code update aayo.,मेरो laptop मा VS Code update आयो।,3.55,noisy
+audio_311_original,audio_311,..\data\augmented_audio\audio_311_original.wav,Tyo question easy xa for me.,त्यो question easy छ for me।,2.59,original
+audio_81_noisy,audio_81,..\data\augmented_audio\audio_81_noisy.wav,Tyo error ko solution google ma xa.,त्यो error को solution google मा छ।,1.76,noisy
+audio_210_pitch_lower,audio_210,..\data\augmented_audio\audio_210_pitch_lower.wav,Maile chai tyo diagram draw gare class ma.,मैले चाहिँ त्यो diagram draw गरे class मा।,4.7,pitch_lower
+audio_217_pitch_higher,audio_217,..\data\augmented_audio\audio_217_pitch_higher.wav,Please share your notes.,Please share your notes.,2.4,pitch_higher
+audio_485_pitch_higher,audio_485,..\data\augmented_audio\audio_485_pitch_higher.wav,Maile chai tyo diagram banaune try gare.,मैले चाहिँ त्यो diagram बनाउने try गरे.,2.59,pitch_higher
+audio_498_original,audio_498,..\data\augmented_audio\audio_498_original.wav,Please create new folder for this.,Please create new folder for this.,1.82,original
+audio_288_noisy,audio_288,..\data\augmented_audio\audio_288_noisy.wav,Mero phone charge cha ki nai?,मेरो phone charge छ कि छैन?,2.82,noisy
+audio_490_pitch_higher,audio_490,..\data\augmented_audio\audio_490_pitch_higher.wav,Maile chai tyo video upload gare youtube ma.,मैले चाहिँ त्यो video upload गरे youtube मा.,2.5,pitch_higher
+audio_348_speed_slow,audio_348,..\data\augmented_audio\audio_348_speed_slow.wav,Please check your gmail.,Please check your gmail.,2.77,speed_slow
+audio_119_speed_fast,audio_119,..\data\augmented_audio\audio_119_speed_fast.wav,Maile chai kal dekhi early uthna thale.,मैलेचै  भोलि देखि early उठ्न थाले।,1.89,speed_fast
+audio_458_pitch_lower,audio_458,..\data\augmented_audio\audio_458_pitch_lower.wav,Please mute yourself before entering.,Please mute yourself before entering.,2.3,pitch_lower
+audio_35_pitch_higher,audio_35,..\data\augmented_audio\audio_35_pitch_higher.wav,Sir le bhaneko notes upload gardinu.,Sir ले भनेको notes upload गरिदिनु।,1.66,pitch_higher
+audio_320_speed_fast,audio_320,..\data\augmented_audio\audio_320_speed_fast.wav,Maile chai tyo file delete gare.,मैले चाहिँ त्यो file delete गरे।,3.46,speed_fast
+audio_298_noisy,audio_298,..\data\augmented_audio\audio_298_noisy.wav,Please create the presentation slides.,Please create the presentation slides.,3.39,noisy
+audio_338_original,audio_338,..\data\augmented_audio\audio_338_original.wav,Mero laptop charger khoi bhaneko xa.,मेरो laptop charger खोइ भनेको छ।,3.33,original
+audio_3_speed_fast,audio_3,..\data\augmented_audio\audio_3_speed_fast.wav,Timi chai kati baje ghar jane plan cha?,तिमी चाहिँ कति बजे घर जाने plan छ?,1.54,speed_fast
+audio_488_noisy,audio_488,..\data\augmented_audio\audio_488_noisy.wav,Mero assignment ko plagiarism check garnu parxa.,मेरो assignment को plagiarism check गर्नु पर्छ.,3.07,noisy
+audio_49_pitch_higher,audio_49,..\data\augmented_audio\audio_49_pitch_higher.wav,Ma arko week bata start garxu.,म अर्को week बाट start गर्छु।,1.76,pitch_higher
+audio_382_speed_slow,audio_382,..\data\augmented_audio\audio_382_speed_slow.wav,Mero bike ko tyre puncture vayo.,मेरो bike को tyre puncture भयो.,2.67,speed_slow
+audio_289_speed_fast,audio_289,..\data\augmented_audio\audio_289_speed_fast.wav,Let's review each other's code today.,Let's review each other's code today.,3.17,speed_fast
+audio_321_speed_fast,audio_321,..\data\augmented_audio\audio_321_speed_fast.wav,Let's create the database tables.,Let's create the database tables.,2.82,speed_fast
+audio_88_original,audio_88,..\data\augmented_audio\audio_88_original.wav,Tyo video ma subtitle cha ki nai?,त्यो video मा subtitle छ कि छैन?,1.73,original
+audio_396_pitch_lower,audio_396,..\data\augmented_audio\audio_396_pitch_lower.wav,Let's start practical from today.,Let's start practical from today.,2.43,pitch_lower
+audio_179_original,audio_179,..\data\augmented_audio\audio_179_original.wav,Maile chai tyo question google gare.,मैले चाहिँ त्यो question google गरे।,3.65,original
+audio_463_pitch_higher,audio_463,..\data\augmented_audio\audio_463_pitch_higher.wav,Mero presentation marks aayo.,मेरो presentation marks आयो.,2.02,pitch_higher
+audio_118_pitch_lower,audio_118,..\data\augmented_audio\audio_118_pitch_lower.wav,Tyo module bhaneko dherai important xa.,त्यो module भनेको धेरै important छ।,1.79,pitch_lower
+audio_183_pitch_lower,audio_183,..\data\augmented_audio\audio_183_pitch_lower.wav,Please unmute yourself to speak.,Please unmute yourself to speak.,3.01,pitch_lower
+audio_397_original,audio_397,..\data\augmented_audio\audio_397_original.wav,Mero phone repair ma cha ahile.,मेरो phone repair मा छ अहिले.,2.21,original
+audio_393_pitch_lower,audio_393,..\data\augmented_audio\audio_393_pitch_lower.wav,Mero laptop ko RAM upgrade garnu parxa.,मेरो laptop को RAM upgrade गर्नु पर्छ.,2.59,pitch_lower
+audio_325_pitch_lower,audio_325,..\data\augmented_audio\audio_325_pitch_lower.wav,Maile chai tyo diagram label gare.,मैले चाहिँ त्यो diagram label गरे।,3.68,pitch_lower
+audio_79_speed_fast,audio_79,..\data\augmented_audio\audio_79_speed_fast.wav,Maile chai assignment hard copy submit gare.,मैलेचै assignment hard copy submit गरे।,1.92,speed_fast
+audio_345_noisy,audio_345,..\data\augmented_audio\audio_345_noisy.wav,Maile chai tyo question solve gare quickly.,मैले चाहिँ त्यो question solve गरे quickly।,3.97,noisy
+audio_486_pitch_lower,audio_486,..\data\augmented_audio\audio_486_pitch_lower.wav,Tyo teacher le extra class rakhnu bhayo.,त्यो teacher ले extra class राख्नु भयो.,2.4,pitch_lower
+audio_493_pitch_higher,audio_493,..\data\augmented_audio\audio_493_pitch_higher.wav,Mero phone ko battery fast discharge vairaixa.,मेरो phone को battery fast discharge भइरहेछ.,2.75,pitch_higher
+audio_478_speed_fast,audio_478,..\data\augmented_audio\audio_478_speed_fast.wav,Tyo teacher le attendance linu bhayo.,त्यो teacher ले attendance लिनु भयो.,1.69,speed_fast
+audio_366_speed_fast,audio_366,..\data\augmented_audio\audio_366_speed_fast.wav,Tyo image ko clarity ramro xa.,त्यो image को clarity राम्रो छ।,3.49,speed_fast
+audio_379_pitch_higher,audio_379,..\data\augmented_audio\audio_379_pitch_higher.wav,Maile chai assignment upload gare.,मैले चाहिँ assignment upload गरे.,2.27,pitch_higher
+audio_1_noisy,audio_1,..\data\augmented_audio\audio_1_noisy.wav,Mero assignment submit garna time lagxa.,मेरो assignment submit गर्न time लाग्छ।,2.14,noisy
+audio_318_noisy,audio_318,..\data\augmented_audio\audio_318_noisy.wav,Mero assignment ko marks aayo.,मेरो assignment को marks आयो।,3.23,noisy
+audio_210_noisy,audio_210,..\data\augmented_audio\audio_210_noisy.wav,Maile chai tyo diagram draw gare class ma.,मैले चाहिँ त्यो diagram draw गरे class मा।,4.7,noisy
+audio_42_pitch_lower,audio_42,..\data\augmented_audio\audio_42_pitch_lower.wav,Tyo project ko idea ramro cha.,त्यो project को idea राम्रो छ।,1.38,pitch_lower
+audio_291_pitch_higher,audio_291,..\data\augmented_audio\audio_291_pitch_higher.wav,Tyo question answer garna time lagxa.,त्यो question answer गर्न time लाग्छ।,3.52,pitch_higher
+audio_235_pitch_higher,audio_235,..\data\augmented_audio\audio_235_pitch_higher.wav,Maile chai project complete gare half.,मैले चाहिँ project complete गरे half।,3.23,pitch_higher
+audio_171_original,audio_171,..\data\augmented_audio\audio_171_original.wav,Maile chai tyo repo clone gareko xu.,मैले चाहिँ त्यो repo clone गरेको छु।,3.84,original
+audio_238_speed_fast,audio_238,..\data\augmented_audio\audio_238_speed_fast.wav,Mero net connection kati slow xa.,मेरो net connection कति slow छ।,2.82,speed_fast
+audio_219_pitch_lower,audio_219,..\data\augmented_audio\audio_219_pitch_lower.wav,Tyo class record vayo ki nai?,त्यो class record भयो कि छैन?,2.91,pitch_lower
+audio_489_speed_fast,audio_489,..\data\augmented_audio\audio_489_speed_fast.wav,Let's finish the presentation today itself.,Let's finish the presentation today itself.,2.47,speed_fast
+audio_486_pitch_higher,audio_486,..\data\augmented_audio\audio_486_pitch_higher.wav,Tyo teacher le extra class rakhnu bhayo.,त्यो teacher ले extra class राख्नु भयो.,2.4,pitch_higher
+audio_41_pitch_higher,audio_41,..\data\augmented_audio\audio_41_pitch_higher.wav,Maile tyo error fix gare.,मैले त्यो error fix गरे।,1.5,pitch_higher
+audio_281_noisy,audio_281,..\data\augmented_audio\audio_281_noisy.wav,Let's prepare for upcoming test.,Let's prepare for upcoming test.,3.14,noisy
+audio_420_pitch_lower,audio_420,..\data\augmented_audio\audio_420_pitch_lower.wav,Maile chai tyo code optimize gare.,मैले चाहिँ त्यो code optimize गरे.,2.08,pitch_lower
+audio_60_pitch_higher,audio_60,..\data\augmented_audio\audio_60_pitch_higher.wav,Maile tyo meeting join garna birse.,मैले त्यो meeting join गर्न बिर्से।,1.86,pitch_higher
+audio_113_pitch_higher,audio_113,..\data\augmented_audio\audio_113_pitch_higher.wav,Mero phone ma tyo app install xa.,मेरो phone मा त्यो app install छ।,1.7,pitch_higher
+audio_364_pitch_lower,audio_364,..\data\augmented_audio\audio_364_pitch_lower.wav,Let's meet after college today.,Let's meet after college today.,3.1,pitch_lower
+audio_395_original,audio_395,..\data\augmented_audio\audio_395_original.wav,Maile chai tyo topic revise gare yesterday.,मैले चाहिँ त्यो topic revise गरे yesterday.,3.17,original
+audio_80_noisy,audio_80,..\data\augmented_audio\audio_80_noisy.wav,Please share your screen.,Please share your screen.,1.12,noisy
+audio_152_pitch_lower,audio_152,..\data\augmented_audio\audio_152_pitch_lower.wav,Tyo photo upload gardaina timely.,त्यो photo upload गर्दैन तिमीले|,3.1,pitch_lower
+audio_74_speed_slow,audio_74,..\data\augmented_audio\audio_74_speed_slow.wav,Tyo class start vayo ki nai?,त्यो class start भयो कि होइन?,1.71,speed_slow
+audio_58_pitch_lower,audio_58,..\data\augmented_audio\audio_58_pitch_lower.wav,Mero room ma charger xa.,मेरो room मा charger छ।,1.44,pitch_lower
+audio_164_original,audio_164,..\data\augmented_audio\audio_164_original.wav,Please check your WhatsApp.,Please check your WhatsApp.,1.92,original
+audio_283_pitch_higher,audio_283,..\data\augmented_audio\audio_283_pitch_higher.wav,Please delete the old files.,Please delete the old files.,3.36,pitch_higher
+audio_201_noisy,audio_201,..\data\augmented_audio\audio_201_noisy.wav,Mero presentation file ready cha.,मेरो presentation file ready छ।,3.52,noisy
+audio_182_noisy,audio_182,..\data\augmented_audio\audio_182_noisy.wav,Mero pen khoi bhaneko xu.,मेरो pen खोइ भनेको छु।,2.88,noisy
+audio_57_original,audio_57,..\data\augmented_audio\audio_57_original.wav,Let's finish this task today itself.,Let's finish this task today itself.,2.27,original
+audio_22_pitch_higher,audio_22,..\data\augmented_audio\audio_22_pitch_higher.wav,"Kal test cha, padhera aauna.","भोलि test छ, पढेर आउनु।",1.76,pitch_higher
+audio_498_pitch_higher,audio_498,..\data\augmented_audio\audio_498_pitch_higher.wav,Please create new folder for this.,Please create new folder for this.,1.82,pitch_higher
+audio_315_pitch_lower,audio_315,..\data\augmented_audio\audio_315_pitch_lower.wav,Maile chai hijo practical test diyo.,मैले चाहिँ हिजो practical test दिए।,4.06,pitch_lower
+audio_251_speed_fast,audio_251,..\data\augmented_audio\audio_251_speed_fast.wav,Mero internet recharge garnu parxa.,मेरो internet recharge गर्नु पर्छ।,2.73,speed_fast
+audio_366_original,audio_366,..\data\augmented_audio\audio_366_original.wav,Tyo image ko clarity ramro xa.,त्यो image को clarity राम्रो छ।,3.84,original
+audio_162_speed_fast,audio_162,..\data\augmented_audio\audio_162_speed_fast.wav,Let's meet at library tomorrow.,Let's meet at library tomorrow.,3.32,speed_fast
+audio_84_noisy,audio_84,..\data\augmented_audio\audio_84_noisy.wav,Let's finalize the project report today.,Let's finalize the project report today.,1.98,noisy
+audio_368_pitch_lower,audio_368,..\data\augmented_audio\audio_368_pitch_lower.wav,Mero assignment pending xa.,मेरो assignment pending छ।,2.82,pitch_lower
+audio_483_pitch_lower,audio_483,..\data\augmented_audio\audio_483_pitch_lower.wav,Please delete the duplicate files.,Please delete the duplicate files.,1.79,pitch_lower
+audio_8_original,audio_8,..\data\augmented_audio\audio_8_original.wav,"Herana, yo diagram ramro sanga draw garnu parxa.","हेरन, यो diagram राम्रोसँग draw गर्नुपर्छ।",2.18,original
+audio_291_speed_slow,audio_291,..\data\augmented_audio\audio_291_speed_slow.wav,Tyo question answer garna time lagxa.,त्यो question answer गर्न time लाग्छ।,3.91,speed_slow
+audio_182_pitch_higher,audio_182,..\data\augmented_audio\audio_182_pitch_higher.wav,Mero pen khoi bhaneko xu.,मेरो pen खोइ भनेको छु।,2.88,pitch_higher
+audio_473_pitch_higher,audio_473,..\data\augmented_audio\audio_473_pitch_higher.wav,Please upload your photo.,Please upload your photo.,1.54,pitch_higher
+audio_498_speed_slow,audio_498,..\data\augmented_audio\audio_498_speed_slow.wav,Please create new folder for this.,Please create new folder for this.,2.03,speed_slow
+audio_497_pitch_higher,audio_497,..\data\augmented_audio\audio_497_pitch_higher.wav,Mero bike ko brake problem xa.,मेरो bike को brake problem छ.,2.05,pitch_higher
+audio_212_pitch_lower,audio_212,..\data\augmented_audio\audio_212_pitch_lower.wav,Please send me the final draft.,Please send me the final draft.,2.98,pitch_lower
+audio_293_pitch_higher,audio_293,..\data\augmented_audio\audio_293_pitch_higher.wav,Mero internet slow vairaixa continuously.,मेरो internet slow भइरहेको continuously।,3.68,pitch_higher
+audio_383_noisy,audio_383,..\data\augmented_audio\audio_383_noisy.wav,Please attend the seminar tomorrow.,Please attend the seminar tomorrow.,2.18,noisy
+audio_356_pitch_lower,audio_356,..\data\augmented_audio\audio_356_pitch_lower.wav,Let's finalize the team today.,Let's finalize the team today.,2.94,pitch_lower
+audio_103_pitch_higher,audio_103,..\data\augmented_audio\audio_103_pitch_higher.wav,Let's complete this topic today.,Let's complete this topic today.,1.63,pitch_higher
+audio_341_speed_fast,audio_341,..\data\augmented_audio\audio_341_speed_fast.wav,Tyo project deployment kal garna parxa.,त्यो project deployment भोली गर्न पर्छ।,3.75,speed_fast
+audio_11_speed_fast,audio_11,..\data\augmented_audio\audio_11_speed_fast.wav,Tyo movie ko trailer dherai ramro xa.,त्यो movie को trailer धेरै राम्रो छ।,1.6,speed_fast
+audio_207_pitch_higher,audio_207,..\data\augmented_audio\audio_207_pitch_higher.wav,Maile chai python install gare.,मैले चाहिँ python install गरे।,3.33,pitch_higher
+audio_366_pitch_higher,audio_366,..\data\augmented_audio\audio_366_pitch_higher.wav,Tyo image ko clarity ramro xa.,त्यो image को clarity राम्रो छ।,3.84,pitch_higher
+audio_422_noisy,audio_422,..\data\augmented_audio\audio_422_noisy.wav,Mero presentation kal submit garna parxa.,मेरो presentation भोलि submit गर्न पर्छ.,3.23,noisy
+audio_39_speed_slow,audio_39,..\data\augmented_audio\audio_39_speed_slow.wav,Tyo app use garna easy xa.,त्यो app use गर्न easy छ।,1.64,speed_slow
+audio_251_speed_slow,audio_251,..\data\augmented_audio\audio_251_speed_slow.wav,Mero internet recharge garnu parxa.,मेरो internet recharge गर्नु पर्छ।,3.34,speed_slow
+audio_122_noisy,audio_122,..\data\augmented_audio\audio_122_noisy.wav,Please mute yourself during meeting.,Please mute yourself during meeting.,1.82,noisy
+audio_208_noisy,audio_208,..\data\augmented_audio\audio_208_noisy.wav,Please share the ppt slides.,Please share the ppt slides.,2.43,noisy
+audio_108_original,audio_108,..\data\augmented_audio\audio_108_original.wav,Sir le assignment ko deadline extend garnu bhayo.,Sir ले assignment को deadline extend गर्नुभयो।,2.21,original
+audio_395_speed_fast,audio_395,..\data\augmented_audio\audio_395_speed_fast.wav,Maile chai tyo topic revise gare yesterday.,मैले चाहिँ त्यो topic revise गरे yesterday.,2.88,speed_fast
+audio_445_speed_fast,audio_445,..\data\augmented_audio\audio_445_speed_fast.wav,Maile chai tyo app uninstall gare.,मैले चाहिँ त्यो app uninstall गरे.,2.21,speed_fast
+audio_384_speed_fast,audio_384,..\data\augmented_audio\audio_384_speed_fast.wav,Tyo code snippet explain gardinu.,त्यो code snippet explain गर्दिनु.,2.07,speed_fast
+audio_170_pitch_lower,audio_170,..\data\augmented_audio\audio_170_pitch_lower.wav,Let's practice more coding today.,Let's practice more coding today.,3.14,pitch_lower
+audio_317_speed_slow,audio_317,..\data\augmented_audio\audio_317_speed_slow.wav,Please logout from the system.,Please logout from the system.,3.02,speed_slow
+audio_383_pitch_lower,audio_383,..\data\augmented_audio\audio_383_pitch_lower.wav,Please attend the seminar tomorrow.,Please attend the seminar tomorrow.,2.18,pitch_lower
+audio_476_speed_fast,audio_476,..\data\augmented_audio\audio_476_speed_fast.wav,Mero net recharge garnai parxa aaja.,मेरो net recharge गर्नै पर्छ आज.,2.36,speed_fast
+audio_162_pitch_higher,audio_162,..\data\augmented_audio\audio_162_pitch_higher.wav,Let's meet at library tomorrow.,Let's meet at library tomorrow.,3.65,pitch_higher
+audio_134_original,audio_134,..\data\augmented_audio\audio_134_original.wav,Tyo code logic bujhna time lagxa.,त्यो code logic बुझ्न time लाग्छ।,3.62,original
+audio_116_noisy,audio_116,..\data\augmented_audio\audio_116_noisy.wav,Please submit the form before deadline.,Please submit the form before deadline.,1.76,noisy
+audio_257_pitch_higher,audio_257,..\data\augmented_audio\audio_257_pitch_higher.wav,Mero assignment ko plagiarism high xa.,मेरो assignment को plagiarism high छ।,3.52,pitch_higher
+audio_200_speed_fast,audio_200,..\data\augmented_audio\audio_200_speed_fast.wav,Let's have group discussion.,Let's have group discussion.,2.56,speed_fast
+audio_416_pitch_higher,audio_416,..\data\augmented_audio\audio_416_pitch_higher.wav,Tyo topic aaja padhna parxa.,त्यो topic आज पढ्न पर्छ.,1.92,pitch_higher
+audio_63_noisy,audio_63,..\data\augmented_audio\audio_63_noisy.wav,Mero phone ko storage full vayo.,मेरो phone को storage full भयो।,1.82,noisy
+audio_404_original,audio_404,..\data\augmented_audio\audio_404_original.wav,Maile chai tyo project deploy gare.,मैले चाहिँ त्यो project deploy गरे.,2.34,original
+audio_199_speed_slow,audio_199,..\data\augmented_audio\audio_199_speed_slow.wav,Maile chai output verify gare.,मैले चाहिँ output verify गरे।,4.05,speed_slow
+audio_204_speed_fast,audio_204,..\data\augmented_audio\audio_204_speed_fast.wav,Maile chai video upload gare youtube ma.,मैले चाहिँ video upload गरे youtube मा।,3.72,speed_fast
+audio_490_noisy,audio_490,..\data\augmented_audio\audio_490_noisy.wav,Maile chai tyo video upload gare youtube ma.,मैले चाहिँ त्यो video upload गरे youtube मा.,2.5,noisy
+audio_63_pitch_higher,audio_63,..\data\augmented_audio\audio_63_pitch_higher.wav,Mero phone ko storage full vayo.,मेरो phone को storage full भयो।,1.82,pitch_higher
+audio_484_pitch_lower,audio_484,..\data\augmented_audio\audio_484_pitch_lower.wav,Tyo app update garna bhule.,त्यो app update गर्न भूले.,1.89,pitch_lower
+audio_367_noisy,audio_367,..\data\augmented_audio\audio_367_noisy.wav,Please keep your mic muted.,Please keep your mic muted.,3.23,noisy
+audio_273_speed_fast,audio_273,..\data\augmented_audio\audio_273_speed_fast.wav,Mero presentation bholi submit garna parxa.,मेरो presentation भोलि submit गर्न पर्छ।,3.61,speed_fast
+audio_411_noisy,audio_411,..\data\augmented_audio\audio_411_noisy.wav,Tyo question ko solution easy xa.,त्यो question को solution easy छ.,2.11,noisy
+audio_46_original,audio_46,..\data\augmented_audio\audio_46_original.wav,Tyo website ko UI design attractive cha.,त्यो website को UI design attractive छ।,2.21,original
+audio_373_pitch_lower,audio_373,..\data\augmented_audio\audio_373_pitch_lower.wav,Please follow the instructions.,Please follow the instructions.,3.36,pitch_lower
+audio_170_speed_fast,audio_170,..\data\augmented_audio\audio_170_speed_fast.wav,Let's practice more coding today.,Let's practice more coding today.,2.85,speed_fast
+audio_33_speed_slow,audio_33,..\data\augmented_audio\audio_33_speed_slow.wav,Maile arko section ma class linu parxa.,मैले अर्को section मा class लिनुपर्छ।,2.13,speed_slow
+audio_68_noisy,audio_68,..\data\augmented_audio\audio_68_noisy.wav,Ma arko video banauchu tes mathi.,म अर्को video बनाउँछु त्यस माथि।,2.02,noisy
+audio_442_pitch_higher,audio_442,..\data\augmented_audio\audio_442_pitch_higher.wav,Please check the file size.,Please check the file size.,1.63,pitch_higher
+audio_41_noisy,audio_41,..\data\augmented_audio\audio_41_noisy.wav,Maile tyo error fix gare.,मैले त्यो error fix गरे।,1.5,noisy
+audio_475_noisy,audio_475,..\data\augmented_audio\audio_475_noisy.wav,Maile chai tyo error solve gare finally.,मैले चाहिँ त्यो error solve गरे finally.,2.85,noisy
+audio_325_pitch_higher,audio_325,..\data\augmented_audio\audio_325_pitch_higher.wav,Maile chai tyo diagram label gare.,मैले चाहिँ त्यो diagram label गरे।,3.68,pitch_higher
+audio_406_pitch_lower,audio_406,..\data\augmented_audio\audio_406_pitch_lower.wav,Let's finalize documentation today.,Let's finalize documentation today.,2.4,pitch_lower
+audio_86_original,audio_86,..\data\augmented_audio\audio_86_original.wav,Maile chai code push gare github ma.,मैलेचै code push गरे github मा।,1.79,original
+audio_33_speed_fast,audio_33,..\data\augmented_audio\audio_33_speed_fast.wav,Maile arko section ma class linu parxa.,मैले अर्को section मा class लिनुपर्छ।,1.75,speed_fast
+audio_34_original,audio_34,..\data\augmented_audio\audio_34_original.wav,Please send me the link for registration.,Please send me the link for registration.,1.89,original
+audio_202_pitch_lower,audio_202,..\data\augmented_audio\audio_202_pitch_lower.wav,Please join the meeting soon.,Please join the meeting soon.,2.43,pitch_lower
+audio_14_noisy,audio_14,..\data\augmented_audio\audio_14_noisy.wav,Sir le extra class rakhnu bhayo bholi.,Sir ले extra class राख्नु भयो भोलि।,1.89,noisy
+audio_489_original,audio_489,..\data\augmented_audio\audio_489_original.wav,Let's finish the presentation today itself.,Let's finish the presentation today itself.,2.72,original
+audio_235_speed_slow,audio_235,..\data\augmented_audio\audio_235_speed_slow.wav,Maile chai project complete gare half.,मैले चाहिँ project complete गरे half।,3.59,speed_slow
+audio_487_speed_fast,audio_487,..\data\augmented_audio\audio_487_speed_fast.wav,Please submit your practical file.,Please submit your practical file.,1.82,speed_fast
+audio_364_pitch_higher,audio_364,..\data\augmented_audio\audio_364_pitch_higher.wav,Let's meet after college today.,Let's meet after college today.,3.1,pitch_higher
+audio_36_original,audio_36,..\data\augmented_audio\audio_36_original.wav,Maile tyo message padhna birse.,मैले त्यो message पढ्न बिर्से।,1.6,original
+audio_402_pitch_higher,audio_402,..\data\augmented_audio\audio_402_pitch_higher.wav,Please join the google meet.,Please join the google meet.,1.63,pitch_higher
+audio_99_speed_slow,audio_99,..\data\augmented_audio\audio_99_speed_slow.wav,Maile chai output check gare already.,मैलेचै output check गरे already.,1.99,speed_slow
+audio_495_original,audio_495,..\data\augmented_audio\audio_495_original.wav,Maile chai tyo form fill gare already.,मैले चाहिँ त्यो form fill गरे already.,2.72,original
+audio_159_speed_slow,audio_159,..\data\augmented_audio\audio_159_speed_slow.wav,Mero code output correct xa.,मेरो code output correct छ।,2.88,speed_slow
+audio_76_pitch_higher,audio_76,..\data\augmented_audio\audio_76_pitch_higher.wav,Tyo seminar ma interesting topic thiyo.,त्यो seminar मा interesting topic थियो।,1.73,pitch_higher
+audio_100_pitch_lower,audio_100,..\data\augmented_audio\audio_100_pitch_lower.wav,Tyo function debug garna parxa.,त्यो function debug गर्नुपर्छ।,1.54,pitch_lower
+audio_473_speed_fast,audio_473,..\data\augmented_audio\audio_473_speed_fast.wav,Please upload your photo.,Please upload your photo.,1.4,speed_fast
+audio_269_speed_slow,audio_269,..\data\augmented_audio\audio_269_speed_slow.wav,Tyo topic revise garna parxa.,त्यो topic revise गर्न पर्छ।,3.45,speed_slow
+audio_343_original,audio_343,..\data\augmented_audio\audio_343_original.wav,Mero presentation topic finalize vayo.,मेरो presentation topic finalize भयो।,3.62,original
+audio_474_noisy,audio_474,..\data\augmented_audio\audio_474_noisy.wav,Tyo diagram draw garna alik garo lagyo.,त्यो diagram draw गर्न अलि गाह्रो लाग्यो.,2.56,noisy
+audio_151_noisy,audio_151,..\data\augmented_audio\audio_151_noisy.wav,Mero room ma wifi problem xa.,मेरो room मा wifi problem छ।,3.42,noisy
+audio_10_speed_fast,audio_10,..\data\augmented_audio\audio_10_speed_fast.wav,Ma aba ghar jane sochdai chu.,म अब घर जाने सोच्दै छु।,1.57,speed_fast
+audio_284_original,audio_284,..\data\augmented_audio\audio_284_original.wav,Tyo code logic alik tricky xa.,त्यो code logic अलिक tricky छ।,3.36,original
+audio_74_pitch_higher,audio_74,..\data\augmented_audio\audio_74_pitch_higher.wav,Tyo class start vayo ki nai?,त्यो class start भयो कि होइन?,1.54,pitch_higher
+audio_32_noisy,audio_32,..\data\augmented_audio\audio_32_noisy.wav,Tyo video edit garna time lagxa.,त्यो video edit गर्न time लाग्छ।,1.7,noisy
+audio_89_pitch_lower,audio_89,..\data\augmented_audio\audio_89_pitch_lower.wav,Mero roll number 40 ho.,मेरो roll number 40 हो।,1.34,pitch_lower
+audio_382_pitch_higher,audio_382,..\data\augmented_audio\audio_382_pitch_higher.wav,Mero bike ko tyre puncture vayo.,मेरो bike को tyre puncture भयो.,2.4,pitch_higher
+audio_437_speed_fast,audio_437,..\data\augmented_audio\audio_437_speed_fast.wav,Please mute your mic during call.,Please mute your mic during call.,1.54,speed_fast
+audio_410_pitch_lower,audio_410,..\data\augmented_audio\audio_410_pitch_lower.wav,Maile chai tyo presentation prepare gare.,मैले चाहिँ त्यो presentation prepare गरे.,2.56,pitch_lower
+audio_135_speed_slow,audio_135,..\data\augmented_audio\audio_135_speed_slow.wav,Maile chai arko example try gare.,मैले चाहिँ अर्को example try गरे।,4.87,speed_slow
+audio_172_pitch_higher,audio_172,..\data\augmented_audio\audio_172_pitch_higher.wav,Please turn off your mic.,Please turn off your mic.,2.59,pitch_higher
+audio_366_speed_slow,audio_366,..\data\augmented_audio\audio_366_speed_slow.wav,Tyo image ko clarity ramro xa.,त्यो image को clarity राम्रो छ।,4.27,speed_slow
+audio_304_pitch_lower,audio_304,..\data\augmented_audio\audio_304_pitch_lower.wav,Maile chai code refactor gare.,मैले चाहिँ code refactor गरे।,3.14,pitch_lower
+audio_368_speed_fast,audio_368,..\data\augmented_audio\audio_368_speed_fast.wav,Mero assignment pending xa.,मेरो assignment pending छ।,2.56,speed_fast
+audio_356_noisy,audio_356,..\data\augmented_audio\audio_356_noisy.wav,Let's finalize the team today.,Let's finalize the team today.,2.94,noisy
+audio_242_noisy,audio_242,..\data\augmented_audio\audio_242_noisy.wav,Please submit the document before evening.,Please submit the document before evening.,3.55,noisy
+audio_49_speed_fast,audio_49,..\data\augmented_audio\audio_49_speed_fast.wav,Ma arko week bata start garxu.,म अर्को week बाट start गर्छु।,1.6,speed_fast
+audio_154_pitch_lower,audio_154,..\data\augmented_audio\audio_154_pitch_lower.wav,Maile chai tyo topic already padheko xu.,मैले चाहिँ त्यो topic already पढेको छु।,3.87,pitch_lower
+audio_462_speed_slow,audio_462,..\data\augmented_audio\audio_462_speed_slow.wav,Please check your spam folder.,Please check your spam folder.,2.24,speed_slow
+audio_67_pitch_lower,audio_67,..\data\augmented_audio\audio_67_pitch_lower.wav,Please check the output once.,Please check the output once.,1.34,pitch_lower
+audio_137_noisy,audio_137,..\data\augmented_audio\audio_137_noisy.wav,Mero laptop slow vairaixa aaja.,मेरो laptop slow हुँदैछ आज।,2.78,noisy
+audio_281_pitch_higher,audio_281,..\data\augmented_audio\audio_281_pitch_higher.wav,Let's prepare for upcoming test.,Let's prepare for upcoming test.,3.14,pitch_higher
+audio_455_speed_slow,audio_455,..\data\augmented_audio\audio_455_speed_slow.wav,Tyo teacher ko class recording cha.,त्यो teacher को class recording छ.,2.42,speed_slow
+audio_226_original,audio_226,..\data\augmented_audio\audio_226_original.wav,Mero assignment deadline bholi ho.,मेरो assignment deadline भोलि हो।,2.62,original
+audio_266_noisy,audio_266,..\data\augmented_audio\audio_266_noisy.wav,Tyo teacher le concept ramro sanga bujhaune hunxa.,त्यो teacher ले concept राम्रो संग बुझाउने हुन्छ।,4.67,noisy
+audio_124_noisy,audio_124,..\data\augmented_audio\audio_124_noisy.wav,Tyo website load huna time lagxa.,त्यो website load हुन time लाग्छ।,1.86,noisy
+audio_97_noisy,audio_97,..\data\augmented_audio\audio_97_noisy.wav,Tyo code snippet send gardinu.,त्यो code snippet send गरिदिनु।,1.54,noisy
+audio_412_original,audio_412,..\data\augmented_audio\audio_412_original.wav,Please finish the notes today.,Please finish the notes today.,2.02,original
+audio_5_speed_slow,audio_5,..\data\augmented_audio\audio_5_speed_slow.wav,Mero phone ko battery almost dead xa.,मेरो phone को battery almost dead छ।,2.45,speed_slow
+audio_364_speed_fast,audio_364,..\data\augmented_audio\audio_364_speed_fast.wav,Let's meet after college today.,Let's meet after college today.,2.82,speed_fast
+audio_444_original,audio_444,..\data\augmented_audio\audio_444_original.wav,Tyo teacher le example diye ramro.,त्यो teacher ले example दिए राम्रो.,1.95,original
+audio_438_speed_fast,audio_438,..\data\augmented_audio\audio_438_speed_fast.wav,Mero laptop ko fan awaj gariraixa.,मेरो laptop को fan आवाज गरिरहेछ.,2.01,speed_fast
+audio_491_speed_slow,audio_491,..\data\augmented_audio\audio_491_speed_slow.wav,Tyo question ko explanation ramro xa.,त्यो question को explanation राम्रो छ.,2.42,speed_slow
+audio_30_pitch_lower,audio_30,..\data\augmented_audio\audio_30_pitch_lower.wav,Mero assignment almost complete xa.,मेरो assignment almost complete छ।,1.86,pitch_lower
+audio_82_speed_slow,audio_82,..\data\augmented_audio\audio_82_speed_slow.wav,Maile chai ghar ma padhna ramro lagxa.,मैलेचै घरमा पढ्न राम्रो लाग्छ।,2.1,speed_slow
+audio_294_speed_slow,audio_294,..\data\augmented_audio\audio_294_speed_slow.wav,Tyo teacher le bholi test linu hunxa.,त्यो teacher ले भोलि test लिनु हुन्छ।,4.05,speed_slow
+audio_127_original,audio_127,..\data\augmented_audio\audio_127_original.wav,Tyo lecture record garna bhayo sir le.,त्यो lecture record गर्न भयो sir ले।,2.66,original
+audio_246_pitch_lower,audio_246,..\data\augmented_audio\audio_246_pitch_lower.wav,Let's start recording the video today.,Let's start recording the video today.,3.14,pitch_lower
+audio_3_speed_slow,audio_3,..\data\augmented_audio\audio_3_speed_slow.wav,Timi chai kati baje ghar jane plan cha?,तिमी चाहिँ कति बजे घर जाने plan छ?,1.88,speed_slow
+audio_268_noisy,audio_268,..\data\augmented_audio\audio_268_noisy.wav,Mero bike ko servicing date aayo.,मेरो bike को servicing date आयो।,2.98,noisy
+audio_39_speed_fast,audio_39,..\data\augmented_audio\audio_39_speed_fast.wav,Tyo app use garna easy xa.,त्यो app use गर्न easy छ।,1.34,speed_fast
+audio_361_pitch_lower,audio_361,..\data\augmented_audio\audio_361_pitch_lower.wav,Tyo function use garera check gara.,त्यो function use गरेर check गर।,3.74,pitch_lower
+audio_338_speed_slow,audio_338,..\data\augmented_audio\audio_338_speed_slow.wav,Mero laptop charger khoi bhaneko xa.,मेरो laptop charger खोइ भनेको छ।,3.7,speed_slow
+audio_346_speed_slow,audio_346,..\data\augmented_audio\audio_346_speed_slow.wav,Let's complete the notes today.,Let's complete the notes today.,3.06,speed_slow
+audio_112_speed_fast,audio_112,..\data\augmented_audio\audio_112_speed_fast.wav,Tyo task allocate garna parxa sabai ma.,त्यो task allocate गर्नुपर्छ सबैमा।,1.8,speed_fast
+audio_95_original,audio_95,..\data\augmented_audio\audio_95_original.wav,Let's plan for tomorrow's class.,Let's plan for tomorrow's class.,1.79,original
+audio_25_pitch_higher,audio_25,..\data\augmented_audio\audio_25_pitch_higher.wav,Please call me after your class.,Please call me after your class.,1.38,pitch_higher
+audio_69_speed_fast,audio_69,..\data\augmented_audio\audio_69_speed_fast.wav,Sir le code explain garna bhaneko thiyo.,Sir ले code explain गर्न भनेको थियो।,1.92,speed_fast
+audio_385_pitch_higher,audio_385,..\data\augmented_audio\audio_385_pitch_higher.wav,Maile chai tyo note revise gare.,मैले चाहिँ त्यो note revise गरे.,2.21,pitch_higher
+audio_493_speed_fast,audio_493,..\data\augmented_audio\audio_493_speed_fast.wav,Mero phone ko battery fast discharge vairaixa.,मेरो phone को battery fast discharge भइरहेछ.,2.5,speed_fast
+audio_134_pitch_lower,audio_134,..\data\augmented_audio\audio_134_pitch_lower.wav,Tyo code logic bujhna time lagxa.,त्यो code logic बुझ्न time लाग्छ।,3.62,pitch_lower
+audio_292_pitch_higher,audio_292,..\data\augmented_audio\audio_292_pitch_higher.wav,Please arrange the files properly.,Please arrange the files properly.,3.1,pitch_higher
+audio_457_pitch_lower,audio_457,..\data\augmented_audio\audio_457_pitch_lower.wav,Mero phone charger khoi bhaneko xu.,मेरो phone charger खै भनेको छु.,2.5,pitch_lower
+audio_270_pitch_higher,audio_270,..\data\augmented_audio\audio_270_pitch_higher.wav,Maile chai form fill gare already.,मैले चाहिँ form fill गरे already।,3.42,pitch_higher
+audio_59_original,audio_59,..\data\augmented_audio\audio_59_original.wav,Please download the software before class.,Please download the software before class.,1.92,original
+audio_323_speed_slow,audio_323,..\data\augmented_audio\audio_323_speed_slow.wav,Please share the meeting recording.,Please share the meeting recording.,3.8,speed_slow
+audio_369_noisy,audio_369,..\data\augmented_audio\audio_369_noisy.wav,Tyo teacher le bholi extra class rakhnu hunxa.,त्यो teacher ले भोलि extra class राख्नु हुन्छ।,4.51,noisy
+audio_371_pitch_lower,audio_371,..\data\augmented_audio\audio_371_pitch_lower.wav,Let's update the github repo today.,Let's update the github repo today.,3.2,pitch_lower
+audio_315_noisy,audio_315,..\data\augmented_audio\audio_315_noisy.wav,Maile chai hijo practical test diyo.,मैले चाहिँ हिजो practical test दिए।,4.06,noisy
+audio_130_original,audio_130,..\data\augmented_audio\audio_130_original.wav,Tyo image ko resolution low xa.,त्यो image को resolution low छ।,2.94,original
+audio_387_pitch_lower,audio_387,..\data\augmented_audio\audio_387_pitch_lower.wav,Please login to your account.,Please login to your account.,1.82,pitch_lower
+audio_44_speed_fast,audio_44,..\data\augmented_audio\audio_44_speed_fast.wav,Mero code ma syntax error xa re.,मेरो code मा syntax error छ रे।,1.66,speed_fast
+audio_311_speed_slow,audio_311,..\data\augmented_audio\audio_311_speed_slow.wav,Tyo question easy xa for me.,त्यो question easy छ for me।,2.88,speed_slow
+audio_141_original,audio_141,..\data\augmented_audio\audio_141_original.wav,Tyo teacher ko explanation clear cha.,त्यो teacher को explanation clear छ।,3.42,original
+audio_130_speed_fast,audio_130,..\data\augmented_audio\audio_130_speed_fast.wav,Tyo image ko resolution low xa.,त्यो image को resolution low छ।,2.68,speed_fast
+audio_52_pitch_higher,audio_52,..\data\augmented_audio\audio_52_pitch_higher.wav,Maile chai class ma suneko xu yo kura.,मैलेचै  class मा सुनेको छु यो कुरा।,2.05,pitch_higher
+audio_76_speed_slow,audio_76,..\data\augmented_audio\audio_76_speed_slow.wav,Tyo seminar ma interesting topic thiyo.,त्यो seminar मा interesting topic थियो।,1.92,speed_slow
+audio_399_speed_fast,audio_399,..\data\augmented_audio\audio_399_speed_fast.wav,Tyo diagram explain garna sir le bhaneko.,त्यो diagram explain गर्न sir ले भनेको.,2.53,speed_fast
+audio_280_pitch_higher,audio_280,..\data\augmented_audio\audio_280_pitch_higher.wav,Tyo teacher ko pronunciation clear xa.,त्यो teacher को pronunciation clear छ।,4.03,pitch_higher
+audio_433_speed_slow,audio_433,..\data\augmented_audio\audio_433_speed_slow.wav,Please join the zoom meeting.,Please join the zoom meeting.,2.01,speed_slow
+audio_322_noisy,audio_322,..\data\augmented_audio\audio_322_noisy.wav,Mero pen harayo.,मेरो pen हरायो।,2.14,noisy
+audio_216_pitch_higher,audio_216,..\data\augmented_audio\audio_216_pitch_higher.wav,Tyo image blur xa re.,त्यो image blur छ रे।,2.82,pitch_higher
+audio_122_pitch_lower,audio_122,..\data\augmented_audio\audio_122_pitch_lower.wav,Please mute yourself during meeting.,Please mute yourself during meeting.,1.82,pitch_lower
+audio_432_pitch_higher,audio_432,..\data\augmented_audio\audio_432_pitch_higher.wav,Mero bike ko key khoi bhaneko xu.,मेरो bike को key खै भनेको छु.,2.4,pitch_higher
+audio_328_original,audio_328,..\data\augmented_audio\audio_328_original.wav,Tyo question ko solution send gardinu.,त्यो question को solution send गर्दिनु।,3.3,original
+audio_441_noisy,audio_441,..\data\augmented_audio\audio_441_noisy.wav,Tyo question ko answer prepare garnu.,त्यो question को answer prepare गर्नु.,2.05,noisy
+audio_158_pitch_higher,audio_158,..\data\augmented_audio\audio_158_pitch_higher.wav,Please add me to the group.,Please add me to the group.,2.27,pitch_higher
+audio_56_pitch_lower,audio_56,..\data\augmented_audio\audio_56_pitch_lower.wav,Sir le kal viva linu hunchha.,Sir ले भोलि viva लिनु हुन्छ।,1.6,pitch_lower
+audio_492_noisy,audio_492,..\data\augmented_audio\audio_492_noisy.wav,Please logout from your gmail.,Please logout from your gmail.,1.86,noisy
+audio_482_noisy,audio_482,..\data\augmented_audio\audio_482_noisy.wav,Mero laptop ko keyboard kam gariraixa.,मेरो laptop को keyboard काम गरिरहेछ.,2.69,noisy
+audio_386_original,audio_386,..\data\augmented_audio\audio_386_original.wav,Tyo topic test ma aauxa re.,त्यो topic test मा आउँछ रे.,1.98,original
+audio_436_pitch_lower,audio_436,..\data\augmented_audio\audio_436_pitch_lower.wav,Tyo topic dherai important xa.,त्यो topic धेरै important छ.,1.76,pitch_lower
+audio_320_original,audio_320,..\data\augmented_audio\audio_320_original.wav,Maile chai tyo file delete gare.,मैले चाहिँ त्यो file delete गरे।,3.81,original
+audio_284_speed_fast,audio_284,..\data\augmented_audio\audio_284_speed_fast.wav,Tyo code logic alik tricky xa.,त्यो code logic अलिक tricky छ।,3.05,speed_fast
+audio_181_pitch_higher,audio_181,..\data\augmented_audio\audio_181_pitch_higher.wav,Let's submit assignment before lunch.,Let's submit assignment before lunch।,3.36,pitch_higher
+audio_242_original,audio_242,..\data\augmented_audio\audio_242_original.wav,Please submit the document before evening.,Please submit the document before evening.,3.55,original
+audio_475_original,audio_475,..\data\augmented_audio\audio_475_original.wav,Maile chai tyo error solve gare finally.,मैले चाहिँ त्यो error solve गरे finally.,2.85,original
+audio_56_noisy,audio_56,..\data\augmented_audio\audio_56_noisy.wav,Sir le kal viva linu hunchha.,Sir ले भोलि viva लिनु हुन्छ।,1.6,noisy
+audio_472_original,audio_472,..\data\augmented_audio\audio_472_original.wav,Mero phone password change gareko xu.,मेरो phone password change गरेको छु.,2.46,original
+audio_394_speed_fast,audio_394,..\data\augmented_audio\audio_394_speed_fast.wav,Tyo app ko interface user friendly xa.,त्यो app को interface user friendly छ.,2.62,speed_fast
+audio_351_speed_slow,audio_351,..\data\augmented_audio\audio_351_speed_slow.wav,Mero assignment marks upload vayo.,मेरो assignment marks upload भयो।,3.63,speed_slow
+audio_362_pitch_higher,audio_362,..\data\augmented_audio\audio_362_pitch_higher.wav,Please join the class on time.,Please join the class on time.,3.1,pitch_higher
+audio_364_original,audio_364,..\data\augmented_audio\audio_364_original.wav,Let's meet after college today.,Let's meet after college today.,3.1,original
+audio_303_noisy,audio_303,..\data\augmented_audio\audio_303_noisy.wav,Tyo video ko audio clear cha.,त्यो video को audio clear छ।,2.85,noisy
+audio_100_pitch_higher,audio_100,..\data\augmented_audio\audio_100_pitch_higher.wav,Tyo function debug garna parxa.,त्यो function debug गर्नुपर्छ।,1.54,pitch_higher
+audio_99_pitch_higher,audio_99,..\data\augmented_audio\audio_99_pitch_higher.wav,Maile chai output check gare already.,मैलेचै output check गरे already.,1.79,pitch_higher
+audio_397_pitch_higher,audio_397,..\data\augmented_audio\audio_397_pitch_higher.wav,Mero phone repair ma cha ahile.,मेरो phone repair मा छ अहिले.,2.21,pitch_higher
+audio_65_noisy,audio_65,..\data\augmented_audio\audio_65_noisy.wav,Mero group ko presentation today xa.,मेरो group को presentation today छ।,1.92,noisy
+audio_60_speed_slow,audio_60,..\data\augmented_audio\audio_60_speed_slow.wav,Maile tyo meeting join garna birse.,मैले त्यो meeting join गर्न बिर्से।,2.06,speed_slow
+audio_264_original,audio_264,..\data\augmented_audio\audio_264_original.wav,Let's create the database schema today.,Let's create the database schema today.,3.23,original
